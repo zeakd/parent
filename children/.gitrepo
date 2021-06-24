@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/zeakd/children
+	branch = main
+	commit = 1cf1e83cfdd8c03a3daface21b31d3046accf649
+	parent = 1bdc6c3e435c0127efe9e7de55fdc774416d84ae
+	method = merge
+	cmdver = 0.4.3
